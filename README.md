@@ -1,2 +1,0 @@
-# waleedkhalid
-portfolio app
